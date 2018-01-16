@@ -1,0 +1,12 @@
+**/target/
+.classpath
+.project
+/.settings
+**/bin/
+**/.externalToolBuilders/
+*.iml
+**/.idea/
+logging*
+.DS_Store
+logs/
+/@logging.path@
